@@ -1,0 +1,24 @@
+id: A384CE385
+title: 'Vasubandhu: Abhidharmakośabhāṣya'
+type: translation
+pechas:
+- I40731973
+- IF85C318F
+- IFF487355
+- I049B4414
+- I148E5891
+source_metadata:
+  languages:
+  - zh
+  - bo
+  - ug
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 16:03:08.512412
+  last_modified_at: 2023-02-08 16:03:08.512436
+alignment_to_base:
+  I40731973/6199: 4A00
+  IF85C318F/C5CE: 4A00
+  IFF487355/FAA0: 4A00
+  I049B4414/EBF0: 4A00
+  I148E5891/9B0F: 4A00
